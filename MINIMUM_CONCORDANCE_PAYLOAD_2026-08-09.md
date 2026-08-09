@@ -11,7 +11,7 @@ This is a conservative intake delta for four workstreams the project owner has d
   - `https://fractalish.com/constitution`
   - `https://fractalish.com/constitution.html`
   - `https://fractalish.com/`
-- Deployment evidence: Cloudflare Pages production deployment `https://9f156647.fractalish.pages.dev`, source `41ea6aa`, verified after clean Git-clone deploy.
+- Deployment evidence: Cloudflare Pages production deployment `https://07f91bfa.fractalish.pages.dev`, source `eed3191`, verified after clean Git-clone deploy. The Constitution content baseline was introduced in `41ea6aa`; `eed31915da9732bdc4c34acfd715d74a244e0cbb` adds the post-release live-validator correction.
 - Evidence boundary: this closes the missing-artifact portion of GAP-015 for Constitution v0.1 intake only. Future amendments, steward ratification, version promotion, and downstream implementation consequences must remain separately tracked.
 - Required closure: preserve amendment history and reconcile any later Constitution revisions against this v0.1 baseline before treating them as controlling.
 - Gap: **GAP-015 — Canonical authority package — pointed to Constitution v0.1 baseline**.
