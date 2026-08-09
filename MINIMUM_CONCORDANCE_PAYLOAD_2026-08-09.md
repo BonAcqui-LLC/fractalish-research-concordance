@@ -6,9 +6,15 @@ This is a conservative intake delta for four workstreams the project owner has d
 
 - Function: program-level governance constitution defining durable principles, authority boundaries, decision rules, and constraints for Fractalish research/build activity.
 - Classification: **WORKING GOVERNANCE CONSTITUTION / CANONICAL CANDIDATE**.
-- Evidence boundary: mandatory current project, but exact controlling Constitution file/version/amendment history is not established in the currently indexed concordance sources.
-- Required closure: locate and ingest the current Constitution artifact/package; record version, authority, amendments, implementation consequences, and open decisions.
-- Gap: **GAP-015 — Canonical authority package**.
+- Controlling evidence for this intake: `BonAcqui-LLC/fractalish`, `CONSTITUTION.md` v0.1 dated 2026-08-09, merged to `main` in commit `41ea6aa664c2b390757bae5de6db5ccb3ef3382b` via PR `https://github.com/BonAcqui-LLC/fractalish/pull/12`.
+- Live public URLs:
+  - `https://fractalish.com/constitution`
+  - `https://fractalish.com/constitution.html`
+  - `https://fractalish.com/`
+- Deployment evidence: Cloudflare Pages production deployment `https://9f156647.fractalish.pages.dev`, source `41ea6aa`, verified after clean Git-clone deploy.
+- Evidence boundary: this closes the missing-artifact portion of GAP-015 for Constitution v0.1 intake only. Future amendments, steward ratification, version promotion, and downstream implementation consequences must remain separately tracked.
+- Required closure: preserve amendment history and reconcile any later Constitution revisions against this v0.1 baseline before treating them as controlling.
+- Gap: **GAP-015 — Canonical authority package — pointed to Constitution v0.1 baseline**.
 
 ## R2R / Research-to-Runtime Promotion Engine
 
