@@ -2295,3 +2295,4 @@ The developmental Natural Math → Cognitive Basin → CNTM round was already in
 The source files often contain multiple independent model responses. v1.2 carries forward intersections, explicit breaker corrections, and clearly labeled working formalisms. A model’s rhetorically strong statement is not promoted merely because it is memorable. Where the team disagrees, the narrower result or HOLD is preferred.
 
 This document is an internal synthesis / research-control artifact. Before public scientific publication, conventional-physics claims and named experimental details should be checked against primary literature rather than cited to AI team responses.
+
